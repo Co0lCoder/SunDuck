@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Сотрудник с оплатой по ставке
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
