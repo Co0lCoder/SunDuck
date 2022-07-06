@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Работник с зарплатой по окладу
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
