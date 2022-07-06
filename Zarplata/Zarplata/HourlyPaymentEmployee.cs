@@ -1,4 +1,5 @@
-﻿
+﻿// Работник с почасовой зарплатой
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
